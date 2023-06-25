@@ -1,0 +1,14 @@
+{
+  "name": "blogexpress",
+  "version": "1.0.0",
+  "description": "This is a blog we create during my blog express website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^7.0.1"
+  }
+}
